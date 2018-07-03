@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40030" started-at="2017-10-13T01:41:42Z" finished-at="2017-10-13T01:42:22Z">
+    <groups>
+    </groups>
+    <test name="TestJDActions" duration-ms="40030" started-at="2017-10-13T01:41:42Z" finished-at="2017-10-13T01:42:22Z">
+      <class name="testSuite.Test_AddGoodToCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testSuite.Test_AddGoodToCart@4439f31e]" name="setUp" is-config="true" duration-ms="17" started-at="2017-10-13T09:41:42Z" finished-at="2017-10-13T09:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAddToCart()[pri:0, instance:testSuite.Test_AddGoodToCart@4439f31e]" name="testAddToCart" duration-ms="6690" started-at="2017-10-13T09:42:13Z" finished-at="2017-10-13T09:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testSuite.Test_AddGoodToCart@4439f31e]" name="tearDown" is-config="true" duration-ms="1610" started-at="2017-10-13T09:42:20Z" finished-at="2017-10-13T09:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testSuite.Test_AddGoodToCart -->
+      <class name="testSuite.Test_HomePage_Search">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testSuite.Test_HomePage_Search@5dfcfece]" name="setUp" is-config="true" duration-ms="19030" started-at="2017-10-13T09:41:42Z" finished-at="2017-10-13T09:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_searchGoods()[pri:0, instance:testSuite.Test_HomePage_Search@5dfcfece]" name="test_searchGoods" duration-ms="9657" started-at="2017-10-13T09:42:01Z" finished-at="2017-10-13T09:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_searchGoods -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testSuite.Test_HomePage_Search@5dfcfece]" name="tearDown" is-config="true" duration-ms="3012" started-at="2017-10-13T09:42:10Z" finished-at="2017-10-13T09:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testSuite.Test_HomePage_Search -->
+    </test> <!-- TestJDActions -->
+  </suite> <!-- Suite -->
+</testng-results>
